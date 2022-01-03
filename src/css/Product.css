@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap');
+
+
+.product{
+    overflow: scroll;
+    height: 100%;
+    background-color: #eaeef5bb;
+}
+.Product-card{
+    justify-content: space-around; 
+ }
+.product-list{
+    width: 100%;
+    padding: 30px;   
+}
+.picture{
+    width: 100%;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.name{
+    font-family: 'Rubik';
+    font-size: 15px;
+    margin-top: 10px;
+}
+.price{
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+

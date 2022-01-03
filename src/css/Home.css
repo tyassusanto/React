@@ -1,0 +1,15 @@
+
+.Home{
+    height: 100vh;
+    display: flex;
+}
+.home-kiri{
+    width: 70%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    display: flex;
+    height: 87% !important;
+}
